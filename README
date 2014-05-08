@@ -1,0 +1,4 @@
+To use:
+
+Download TamperMonkey for Chrome and add these files as scripts.
+Whitelist the domain you want it to work for under the script settings. Put your URL into the "User matches" list.
